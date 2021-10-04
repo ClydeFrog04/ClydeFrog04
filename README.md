@@ -8,7 +8,7 @@
 - JavaScript
 - Typescript
 - c#
-- Python
+- Kotlin
 
 I'd love to hear from you! Feel free to send me an email at egan.randal@gmail.com
 
