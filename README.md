@@ -5,9 +5,9 @@
 
 # Some of my favorite languages to work with:
 - Java
-- JavaScript
-- Typescript
-- c#
+- TypeScript
+- c
+- qml
 - Kotlin
 
 I'd love to hear from you! Feel free to send me an email at egan.randal@gmail.com
