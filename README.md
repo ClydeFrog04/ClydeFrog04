@@ -3,12 +3,14 @@
 - I began my coding adventure in high school when I discovered ti-basic. The programming language on TI graphing calculators!
 - In my non coding time I enjoy playing hockey, drumming, hiking, or relaxing with my cat at home.
 
-# Some of my favorite languages to work with:
+# Some of my favorite technologies to work with:
+- TypeScript/JavaScript
 - Java
-- TypeScript
-- c
-- qml
+- c#
 - Kotlin
+- React
+- SCSS/CSS
+- GraphQL
 
 I'd love to hear from you! Feel free to send me an email at egan.randal@gmail.com
 
