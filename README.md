@@ -3,7 +3,7 @@
 - I began my coding adventure in high school when I discovered ti-basic. The programming language on TI graphing calculators!
 - In my non coding time I enjoy playing hockey, drumming, hiking, or relaxing with my cat at home.
 
-# Some of my favorite technologies to work with:
+# Some of my favourite technologies to work with:
 - TypeScript/JavaScript
 - Java
 - c#
